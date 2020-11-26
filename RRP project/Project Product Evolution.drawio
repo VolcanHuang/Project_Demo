@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:50:41.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="iRehVS0jt6HfHKNtE1yd" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:51:51.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="SMXYNfDvhZJRyDmpMknU" version="13.10.3" type="github">
   <diagram id="PMe5xxfhS3sRr5Ko6-70" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Automation System with Network communication&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="240" height="70" as="geometry" />
+          <mxGeometry x="40" y="240" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Automation System with Network communication and Feedback&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="240" height="70" as="geometry" />
+          <mxGeometry x="40" y="400" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1gteRvyBW2OjLupQvuVD-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,40 +38,40 @@
           <mxGeometry x="400" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="207.5" width="50" height="75" as="geometry" />
+          <mxGeometry x="280" y="237.5" width="50" height="75" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-11" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Enable network communication through TCP/IP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="230" height="50" as="geometry" />
+          <mxGeometry x="330" y="220" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-12" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Develop desktop client software&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="600" y="170" width="230" height="30" as="geometry" />
+          <mxGeometry x="600" y="200" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-13" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Deploy network hardwares&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1gteRvyBW2OjLupQvuVD-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="188" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1gteRvyBW2OjLupQvuVD-16" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Improve platform structures&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1gteRvyBW2OjLupQvuVD-17" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Design new 3D prints&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="218" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-16" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Improve platform structures&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-17" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Design new 3D prints&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="230" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-18" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Deploy different function units&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="230" height="30" as="geometry" />
+          <mxGeometry x="600" y="310" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="258" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="288" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="337.5" width="50" height="75" as="geometry" />
+          <mxGeometry x="280" y="397.5" width="50" height="75" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-21" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Introduce new sensors&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="230" height="50" as="geometry" />
+          <mxGeometry x="330" y="380" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-22" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Modify UR5e Programs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="230" height="50" as="geometry" />
+          <mxGeometry x="330" y="440" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
