@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:51:51.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="SMXYNfDvhZJRyDmpMknU" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:54:57.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="mhz_9nz1lD4zvZeQ-LPV" version="13.10.3" type="github">
   <diagram id="PMe5xxfhS3sRr5Ko6-70" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1gteRvyBW2OjLupQvuVD-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="990" height="155" as="geometry" />
+        </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-1" value="" style="endArrow=none;html=1;fontSize=12;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="40" as="sourcePoint" />
@@ -72,6 +75,18 @@
         </mxCell>
         <mxCell id="1gteRvyBW2OjLupQvuVD-22" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Modify UR5e Programs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="990" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="1gteRvyBW2OjLupQvuVD-24" target="1gteRvyBW2OjLupQvuVD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;step 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="960" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1gteRvyBW2OjLupQvuVD-27" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;step 2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="960" y="370" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
