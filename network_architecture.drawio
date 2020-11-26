@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T10:35:19.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="VLP60f3bM94QTtvBofKe" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T10:36:41.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ekc0sOk2GB0cNkjIGU9Z" version="13.10.3" type="github">
   <diagram id="xvts6asv44kf7kMuaCmC" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="6" value="&lt;div style=&#39;width: 56.125px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size:14px;font-weight:bold;font-family:Arial;text-decoration:none; line-height: 0;&quot;&gt;&lt;span style=&quot;text-decoration:none; line-height: normal;&quot;&gt;Switch&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.networks.router;shadow=0;strokeWidth=1;opacity=100.0;html=1;nl2Br=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;spacingLeft=2.0;spacingRight=0;gliffyId=16;" parent="2" vertex="1">
           <mxGeometry x="38" y="329" width="119" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="&lt;div style=&quot;width: 757.0px ; height: auto ; word-break: break-word&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; line-height: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;VOYAGER Insertion and Extraction automation network architecture&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=left;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=0;fontStyle=0;" parent="2" vertex="1">
+        <mxCell id="3" value="&lt;div style=&quot;width: 757.0px ; height: auto ; word-break: break-word&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; line-height: normal&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;VOYAGER Insertion and Extraction Automation System Network Communication Architecture&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;nl2Br=0;html=1;nl2Br=0;verticalAlign=middle;align=left;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=0;fontStyle=0;" parent="2" vertex="1">
           <mxGeometry x="27" y="33" width="760" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4" style="shape=filledEdge;strokeWidth=2;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;gliffyId=1;edgeStyle=orthogonalEdgeStyle;" parent="2" edge="1">
