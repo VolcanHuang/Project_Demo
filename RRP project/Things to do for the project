@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T15:20:06.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="vCcBkmEGZ21xXNynJ320" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T21:05:36.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="4zjjeoyzHd_7tvP9xNgv" version="13.10.2" type="github">
   <diagram id="JN0JCZNgMoW0bWnkb_YR" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -59,8 +59,11 @@
         <mxCell id="qDEvjpygkuPAwX71L4wg-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="qDEvjpygkuPAwX71L4wg-36" value="Transducer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qDEvjpygkuPAwX71L4wg-36" value="Robot UR5e" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDEvjpygkuPAwX71L4wg-38" value="OnRobot Gripper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
