@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T13:25:33.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="y6lsER1-4jCNrMhvhEP6" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T13:28:19.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="iOpGJlEJjaUNLMeKyhwt" version="13.10.2" type="github">
   <diagram id="JN0JCZNgMoW0bWnkb_YR" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -16,17 +16,20 @@
         <mxCell id="qDEvjpygkuPAwX71L4wg-4" value="Documentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="81" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qDEvjpygkuPAwX71L4wg-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="qDEvjpygkuPAwX71L4wg-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="358.75" y="-127" width="22.5" height="395" as="geometry" />
         </mxCell>
         <mxCell id="qDEvjpygkuPAwX71L4wg-15" value="ATI Net F/T Gamma IP60" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="148" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDEvjpygkuPAwX71L4wg-16" value="Universal Robot UR5e" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="150" y="148" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qDEvjpygkuPAwX71L4wg-17" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="30" height="40" as="geometry" />
+          <mxGeometry x="240" y="148" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qDEvjpygkuPAwX71L4wg-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="173.13" y="58.13" width="26.25" height="152.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
