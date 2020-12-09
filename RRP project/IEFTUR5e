@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:02:33.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J-D46Zvd7f1MMafokfVG" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:17:47.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9yfMiJEtIXNigsuleCzL" version="14.0.0" type="github">
   <diagram id="fhazd0KoS1GMZbUWgLw3" name="Page-1">
     <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="1165" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w7yKvEFjFsd2sFTtmfo4-2" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Insertion and Extraction Force Test Improved Automatic Robotic System Abstraction&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="w7yKvEFjFsd2sFTtmfo4-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Insertion and Extraction Force Test Improved Automatic Robotic System Abstraction&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="9" y="5" width="1160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w7yKvEFjFsd2sFTtmfo4-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;align=left;" vertex="1" parent="1">
