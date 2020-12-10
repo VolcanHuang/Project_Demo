@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T12:31:02.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="eVEHAkRdO5evoa_OYGLW" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T12:34:12.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="iVUQl3_I9-_HHXNuM05r" version="14.0.0" type="github">
   <diagram id="ws7nKE4xc8i0Fiy0wKz8" name="Page-1">
     <mxGraphModel dx="934" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
             <mxPoint x="823" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mdx0Rw6exQIBVTAZ7aJu-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Universal Robot UR5e Platform Program for&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="780" height="50" as="geometry" />
+        <mxCell id="Mdx0Rw6exQIBVTAZ7aJu-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Universal Robot UR5e Platform Program Flowchart&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="780" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
