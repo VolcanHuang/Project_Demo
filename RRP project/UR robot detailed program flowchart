@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T13:08:25.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bD1uuKPZoSlKXnjkhnTs" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T13:11:07.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3b74gQdJKV_vgPZBOOVe" version="14.0.0" type="github">
   <diagram id="ws7nKE4xc8i0Fiy0wKz8" name="Page-1">
     <mxGraphModel dx="1241" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="Mdx0Rw6exQIBVTAZ7aJu-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Start Insertion Test (M2)&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="530" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mdx0Rw6exQIBVTAZ7aJu-18" value="Request Client Software to Stop Record&amp;nbsp;&lt;br&gt;(C2)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="620" width="130" height="90" as="geometry" />
+        <mxCell id="Mdx0Rw6exQIBVTAZ7aJu-18" value="Request Client Software to Stop (C2)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="620" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
