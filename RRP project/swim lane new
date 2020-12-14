@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T15:37:54.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n7YW3g39uj2x_zjXgySK" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T15:39:41.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GVQ7sGyAmHmzp4ixgI2U" version="14.0.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1363" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="779" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="&lt;u&gt;Universal robot platform&lt;/u&gt;" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="20" width="160" height="2370" as="geometry" />
-        </mxCell>
-        <mxCell id="qqKhCwJ5Ag4aTalB1Izn-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="77e6c97f196da883-3" source="qqKhCwJ5Ag4aTalB1Izn-39" target="qqKhCwJ5Ag4aTalB1Izn-107">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qqKhCwJ5Ag4aTalB1Izn-39" value="Power Up System and Load Program: &quot;Test for UR&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="25" y="110" width="110" height="50" as="geometry" />
@@ -299,6 +296,9 @@
         </mxCell>
         <mxCell id="qqKhCwJ5Ag4aTalB1Izn-553" value="Throw stick and return RRP to charger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="20" y="2300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqKhCwJ5Ag4aTalB1Izn-560" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="77e6c97f196da883-3" source="qqKhCwJ5Ag4aTalB1Izn-39" target="qqKhCwJ5Ag4aTalB1Izn-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="&lt;u&gt;Client software&lt;/u&gt;" style="swimlane;html=1;startSize=20;rounded=0;swimlaneLine=1;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="225.5" height="2370" as="geometry" />
@@ -887,7 +887,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qqKhCwJ5Ag4aTalB1Izn-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="77e6c97f196da883-1" source="qqKhCwJ5Ag4aTalB1Izn-44" target="qqKhCwJ5Ag4aTalB1Izn-38">
+        <mxCell id="qqKhCwJ5Ag4aTalB1Izn-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=1;jumpStyle=arc;" edge="1" parent="77e6c97f196da883-1" source="qqKhCwJ5Ag4aTalB1Izn-44" target="qqKhCwJ5Ag4aTalB1Izn-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="79" y="187" />
