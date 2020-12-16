@@ -7,3 +7,4 @@ Based on the hardware architecture, a software architecture illustrated as follo
 ![image 2](https://github.com/VolcanHuang/Project_Demo/blob/main/RRP%20project/Insertion%20and%20Extraction%20Force%20Test%20Automation%20System/Sytem%20Architecture/Software%20architecture/System%20architecture.jpg)
 And accoridng to the architecture, the workflow of the whole system is represented in this picture:
 ![image 3](https://github.com/VolcanHuang/Project_Demo/blob/main/RRP%20project/Insertion%20and%20Extraction%20Force%20Test%20Automation%20System/Sytem%20Architecture/Software%20architecture/System%20workflow.png)
+More realization decomposition about each process in the chart has been omitted, however this swim lane chart has already captured the logistic sequence about a whole insertion and extraction force test.
