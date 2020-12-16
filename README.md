@@ -1,2 +1,2 @@
 # Project_Demo
-This is a repository for flowcharts or documentations of projects I have done.
+This is a repo to demo selected projects.
